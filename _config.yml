@@ -8,9 +8,9 @@ description: Ini adalah website profil saya
 username: Nevaldi Amnarisky
 user_description: Perkenalkan nama saya Nevaldi Amnarisky. Saya adalah mahasiswa Sistem Informasi angkatan 2018, dan saya berkuliah di Universitas Islam Negeri sultan Syarif Kasim Riau. Saya lahir di Jakarta pada tanggal 28 Maret 2000. Saya anak kedua dari tiga besaudara.
 user_title: Mahasiswa Tampan
-email: valdirisky@gmail.com
-instagram_username: valdi_amrsky
-github_username:  nevaldi
+email: "valdirisky@gmail.com"
+instagram_username: "valdi_amrsky"
+github_username:  "nevaldi"
 
 # Google-analytics
 google-analytics:
