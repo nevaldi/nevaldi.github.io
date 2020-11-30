@@ -1,16 +1,16 @@
 # Site settings
 title: My Profile
-description: A blog about lorem ipsum dolor sit amet
+description: Ini adalah website profil saya
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Nevaldi Amnarisky
-user_description: Perkenalkan nama saya nevaldi Amnarisky. Saya adalah mahasiswa Sistem Informasi angkatan 2018, dan saya berkuliah di Universitas Islam Negeri sultan Syarif Kasim Riau.
+user_description: Perkenalkan nama saya Nevaldi Amnarisky. Saya adalah mahasiswa Sistem Informasi angkatan 2018, dan saya berkuliah di Universitas Islam Negeri sultan Syarif Kasim Riau. Saya lahir di Jakarta pada tanggal 28 Maret 2000. Saya anak kedua dari tiga besaudara.
 user_title: Mahasiswa Tampan
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+email: valdirisky@gmail.com
+instagram_username: valdi_amrsky
+github_username:  nevaldi
 
 # Google-analytics
 google-analytics:
